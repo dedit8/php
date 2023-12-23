@@ -11,7 +11,7 @@ $ npm install
 
 ```sh
 $ npm start
-# Or run with Nodemon
+# o para correrlo en otro entorno
 $ npm run dev
 
 # Visit http://localhost:5000
